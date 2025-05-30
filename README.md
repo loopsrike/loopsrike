@@ -1,16 +1,14 @@
-## Hi there 👋
+![1693923233760](https://github.com/user-attachments/assets/3f3c6263-a3ee-4e6c-bc74-a278753e5e0a)
 
-<!--
-**loopsrike/loopsrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Henrique Martins!
 
-Here are some ideas to get you started:
+## 🧑‍💼 PPM Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With over 13 years of experience in Portfolio, Program, and Project Management, I’ve had the opportunity to work across a wide range of industries, including Information Technology, Consulting, Travel Solutions, Medical Equipment, Manufacturing, Retail, Civil Construction, Chemical, Blending, Mining, Seeds, and Non-Profit Organizations.
+
+My expertise is supported by a broad range of certifications, including PMP, PRINCE2, PM², MoP, P3O, PMO-CP, SAFe Agilist, AgileSHIFT, PSM, PSPO, SPS, PSK, Agile Coach, ITIL, CIS‑SPM, OKRMC, BVOPM, Kanban‑ASC, and Lean Inception, reflecting a strong foundation in both traditional and agile methodologies, strategic portfolio management, and organizational agility.
+
+## 📫 Let’s connect!
+
+- loopsrike@github.com
+- [LinkedIn](https://www.linkedin.com/in/ppm-hmartins/)
