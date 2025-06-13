@@ -10,5 +10,4 @@ My expertise is supported by a broad range of certifications, including PMP, PRI
 
 ## 📫 Let’s connect!
 
-- loopsrike@github.com
 - [LinkedIn](https://www.linkedin.com/in/ppm-hmartins/)
